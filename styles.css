@@ -1,0 +1,79 @@
+
+h1{
+    color:blue;
+    font-display: inherit;
+    font-size:20px;
+    font-style:normal;
+    text-decoration:underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#pic{
+    height:1200px;
+    width:1200px;
+}
+body{
+    background-image:url("https://dcassetcdn.com/design_img/2002418/152860/152860_10652472_2002418_e2d97909_image.jpg");
+    background-repeat:no-repeat;
+    width: 100%; 
+    font-style: normal
+
+
+}
+.donation{
+padding:35px;
+border:20px;
+display: inline-block;
+color:black;
+}
+.form{
+padding:35px;
+border:20px;
+display:auto;
+color: black;
+
+
+}
+/* nav bar styling */
+#banner{
+
+  background-color: orange;
+}
+nav > ul{
+    list-style: none;
+    text-align: right;
+    padding: 12px;
+}
+nav > ul >li{
+    display: inline;
+    padding: -12px;
+}
+a{
+    text-decoration: none;
+}
+.form{
+    /* float: left; */
+    padding-right: 100px
+}
+.programs{
+    font-size:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#about{
+    font-size:20px;
+    font-family: serif
+}
+#PROJECTS{
+    font-size:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.contact{
+    padding:30px;
+}
+
+#banner>img{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: -30px;
+}
